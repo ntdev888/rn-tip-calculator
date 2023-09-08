@@ -3,6 +3,9 @@
 # dependencies
 node_modules/
 
+#training content
+training-content/
+
 # Expo
 .expo/
 dist/
